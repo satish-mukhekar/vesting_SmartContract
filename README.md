@@ -1,4 +1,4 @@
-oken Vesting Platform
+Token Vesting Platform
 Project Overview
 
 This project implements a Token Vesting Platform on the Polygon Amoy Testnet.
@@ -65,5 +65,6 @@ npx hardhat verify --network amoy <MockToken_Contract_Address> "Test Token" "TES
 Tips:
 
 Ensure your deployer account has enough MATIC on the testnet.
+
 
 Use the .env file to securely store your PRIVATE_KEY and POLYGONSCAN_API_KEY.
